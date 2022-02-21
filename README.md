@@ -27,7 +27,7 @@ The following election outcomes were addressed, and the related codes are provid
 
 - **Breakdown of votes and percentage of total votes for each candidate:**
 
-    <img src="resources/Results_Candidate_Breakdown.png" height=50% width=50% align="left">
+    <img src="resources/Results_Candidate_Breakdown.png" height=35% width=35% align="left">
 
     <img src="resources/Results_Candidate_Breakdown_Code.png" height=60% width=60%>
 
