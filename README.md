@@ -8,24 +8,29 @@ The purpose of this audit was to create a Python script that will pull informati
 ## Election Audit Results
 The following election outcomes were addressed, and the related codes are provided below each outcome:
 - **Total votes cast:**
-    ![Total votes](resources/Results_Vote_Total.png)
-    ![Total votes code](resources/Results_Vote_Total_Code.png)
+
+    <img src="resources/Results_Vote_Total.png" height=30% width=30%>
+    <img src="resources/Results_Vote_Total_Code.png" height=30% width=30%>
 
 - **Breakdown of votes and percentage of total votes for each county:**
-    ![County breakdown](resources/Results_County_Breakdown.png)
-    ![County breakdown code](resources/Results_County_Breakdown_Code.png)
+
+    <img src="resources/Results_County_Breakdown.png" height=30% width=30%>
+    <img src="resources/Results_County_Breakdown_Code.png" height=30% width=30%>
 
 - **County with largest votes:**
-    ![Largest county](resources/Results_County_Largest.png)
-    ![Largest county code](resources/Results_County_Breakdown_Code.png)
+
+    <img src="resources/Results_County_Largest.png" height=30% width=30%>
+    <img src="resources/Results_County_Breakdown_Code.png" height=30% width=30%>
 
 - **Breakdown of votes and percentage of total votes for each candidate:**
-    ![Candidate breakdown](resources/Results_Candidate_Breakdown.png)
-    ![Candidate breakdown code](resources/Results_Candidate_Breakdown_Code.png)
+
+    <img src="resources/Results_Candidate_Breakdown.png" height=30% width=30%>
+    <img src="resources/Results_Candidate_Breakdown_Code.png" height=30% width=30%>
 
 - **Candidate winner:**
-    ![Candidate winner](resources/Results_Candidate_Winning.png)
-    ![Candidate winner code](resources/Results_Candidate_Winning_Code.png)
+
+    <img src="resources/Results_Candidate_Winner.png" height=30% width=30%>
+    <img src="resources/Results_Candidate_Winner_Code.png" height=30% width=30%>
 
 ## Election Audit Summary
 
