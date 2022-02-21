@@ -9,28 +9,33 @@ The purpose of this audit was to create a Python script that will pull informati
 The following election outcomes were addressed, and the related codes are provided below each outcome:
 - **Total votes cast:**
 
-    <img src="resources/Results_Vote_Total.png" height=30% width=30%>
-    <img src="resources/Results_Vote_Total_Code.png" height=30% width=30%>
+    <img src="resources/Results_Vote_Total.png" height=30% width=30% align="left">
+
+    <img src="resources/Results_Vote_Total_Code.png" height=40% width=40%>
 
 - **Breakdown of votes and percentage of total votes for each county:**
 
-    <img src="resources/Results_County_Breakdown.png" height=30% width=30%>
-    <img src="resources/Results_County_Breakdown_Code.png" height=30% width=30%>
+    <img src="resources/Results_County_Breakdown.png" height=30% width=30% align="left">
+
+    <img src="resources/Results_County_Breakdown_Code.png" height=40% width=40%>
 
 - **County with largest votes:**
 
-    <img src="resources/Results_County_Largest.png" height=30% width=30%>
-    <img src="resources/Results_County_Breakdown_Code.png" height=30% width=30%>
+    <img src="resources/Results_County_Largest.png" height=30% width=30% align="left">
+
+    <img src="resources/Results_County_Breakdown_Code.png" height=40% width=40%>
 
 - **Breakdown of votes and percentage of total votes for each candidate:**
 
-    <img src="resources/Results_Candidate_Breakdown.png" height=30% width=30%>
-    <img src="resources/Results_Candidate_Breakdown_Code.png" height=30% width=30%>
+    <img src="resources/Results_Candidate_Breakdown.png" height=30% width=30% align="left">
+
+    <img src="resources/Results_Candidate_Breakdown_Code.png" height=40% width=40%>
 
 - **Candidate winner:**
 
-    <img src="resources/Results_Candidate_Winner.png" height=30% width=30%>
-    <img src="resources/Results_Candidate_Winner_Code.png" height=30% width=30%>
+    <img src="resources/Results_Candidate_Winner.png" height=30% width=30% align="left">
+
+    <img src="resources/Results_Candidate_Winner_Code.png" height=40% width=40%>
 
 ## Election Audit Summary
 
